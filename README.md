@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Node, React & Jira**
 
- 💬 Ask me about **C/C++ or anything [here](https://github.com/GHxKw/GHxKw/issues)**
+ 💬 Ask me about **anything [here](https://github.com/GHxKw/GHxKw/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=reactjs,github,python,javascript,c,java,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,flask,html,css,vscode,figma,git,unity" />
 </div>
 
