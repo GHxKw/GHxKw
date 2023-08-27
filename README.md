@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GHxKw.GHxKw" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Quang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+💡I'm+Minh+Quang!💻;" />
 </h1>
 
 <h3 align="center">A passionate Tech Fanatic from VietNam vn</h3>
@@ -16,7 +16,7 @@
 
  💬 Ask me about **anything [here](https://github.com/GHxKw/GHxKw/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **We see colours because objects reflect those colours into our eyes**
  
  </div>
  
