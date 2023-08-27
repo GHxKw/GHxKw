@@ -36,7 +36,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div display="flex">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=reactjs,github,python,javascript,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,flask,html,css,vscode,figma,git,unity" />
 </div>
@@ -49,7 +49,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GHxKw/GHxKw/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -61,14 +61,14 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=GHxKw&count_private=true&show_icons=true&rank_icon=github&border_radius=10" />
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHxKw&layout=compact" />
-  <img width=390 src="https://media.giphy.com/media/Jkk64Xj64mcfu/giphy.gif"/>  
 </div>
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Have+a+nice+day!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Have+a+nice+day!"><br>
+    <img width=500 src="https://media.giphy.com/media/Jkk64Xj64mcfu/giphy.gif"/>
 </h3>
 
 <br/>
