@@ -60,7 +60,7 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=GHxKw&count_private=true"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=GHxKw&count_private=true&show_icons=true&rank_icon=github&border_radius=10" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHxKw\&layout=compact" />
 </div>
 
 <br/><br/>
