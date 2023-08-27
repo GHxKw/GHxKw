@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **An IoT based air quality system**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Node, React & Jira**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/GHxKw/GHxKw/issues)**
+ 💬 Ask me about **C/C++ or anything [here](https://github.com/GHxKw/GHxKw/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=reactjs,github,python,javascript,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=reactjs,github,python,javascript,c,java,unity" /><br>
     <img src="https://skillicons.dev/icons?i=react,flask,html,css,vscode,figma,git" />
 </div>
 
