@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **An IoT based air quality system**
+ 🔭 I’m currently working with **ITRVN**
  
- 🌱 I’m currently learning **Node, React & Jira**
+ 🌱 I’m currently learning **C**
 
  💬 Ask me about **anything [here](https://github.com/GHxKw/GHxKw/issues)**
 
